@@ -1,0 +1,31 @@
+.carousel-item{
+   position:relative;
+}
+
+.carousel-caption{
+    position: absolute;
+    top:10%;
+    left:10%;
+    color: #000;
+}
+
+.carousel-caption h2{
+    text-align: left;
+}
+
+.carousel-caption p{
+    text-align: left;
+}
+.carousel-caption a{
+    text-align: left;
+}
+
+.carousel-caption button{
+    color: white;
+    font-size: 1fpx;
+    padding: 10px 20px;
+    border: none;
+    position: absolute;
+    left:0;
+}
+
